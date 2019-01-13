@@ -1,5 +1,5 @@
 # Site settings
-title:
+title: Aleksis P Kincaid, PhD
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -9,17 +9,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 # User setting
-owner:
+owner: Aleksis Kincaid, PhD
 email:
-facebook_username:
-twitter_username:
-github_username:
+github_username: akincaid
 address:
   - line:
   - line:
   # Feel free to add more lines here 
 telephone:
-copyright:
+copyright: Aleksis P. Kincaid
 
 # API settings
 google_api_key:
