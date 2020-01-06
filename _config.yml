@@ -1,5 +1,5 @@
 # Site settings
-title: Aleksis P Kincaid, PhD
+title: Aleksis Kincaid, PhD
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -15,12 +15,9 @@ github_username: akincaid
 address:
   - line:
   - line:
-  # Feel free to add more lines here 
+  # Feel free to add more lines here
 telephone:
-copyright: Aleksis P. Kincaid
-
-# API settings
-google_api_key:
+copyright: Aleksis Kincaid
 
 # Build settings
 markdown: kramdown
